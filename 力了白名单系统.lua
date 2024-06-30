@@ -8,6 +8,8 @@ elseif Name == "123fa98" then
 whitu = true 
 elseif Name == "Roblox_OldSix666" then 
 whitu = true 
+elseif Name == "shdhudgwu" then 
+whitu = true 
 end
 
 if whitu then
