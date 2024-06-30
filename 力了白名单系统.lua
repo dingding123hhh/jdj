@@ -10,6 +10,8 @@ elseif Name == "Roblox_OldSix666" then
 whitu = true 
 elseif Name == "shdhudgwu" then 
 whitu = true 
+elseif Name == "cn_nc" then 
+whitu = true 
 end
 
 if whitu then
