@@ -4,13 +4,13 @@ local Name = game.Players.LocalPlayer.Name
 
 if Name == "xszxwhbdd" then 
 whitu = true 
-if Name == "123fa98" then 
+elseif Name == "123fa98" then 
 whitu = true 
-if Name == "Roblox_OldSix666" then 
+elseif Name == "Roblox_OldSix666" then 
 whitu = true 
 end
 
-if whitu == true then
+if whitu then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/renlua/Roblox/main/Script_Hub.lua"))()
 else
     game.Players.LocalPlayer:Kick("你没有被加入白名单")
